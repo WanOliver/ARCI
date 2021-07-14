@@ -1,0 +1,114 @@
+# Arquivos compilados por byte / otimizados / DLL
+__pycache__ /
+* .py [ cod ]
+* $ py.class
+
+# Extensões C
+* .so
+
+# Distribuição / embalagem
+.Pitão
+construir /
+ovos de desenvolvimento /
+dist /
+downloads /
+ovos /
+.eggs /
+lib /
+lib64 /
+partes /
+sdist /
+var /
+rodas /
+* .egg-info /
+.installed.cfg
+* .egg
+MANIFESTO
+
+# PyInstaller
+#   Normalmente, esses arquivos são escritos por um script Python a partir de um modelo
+#   antes de PyInstaller construir o exe, para injetar data / outras informações nele.
+* .manifest
+* .spec
+
+# Registros do instalador
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Relatório de teste / cobertura de unidade
+htmlcov /
+.tox /
+.nox /
+.cobertura
+.cobertura. *
+.cache
+nosetests.xml
+cobertura.xml
+* .cover
+.hypothesis /
+.pytest_cache /
+
+# Traduções
+* .mo
+* .pot
+
+# Coisas do Django:
+* .log
+local_settings.py
+db.sqlite3
+
+# Material do frasco:
+instância /
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Documentação Sphinx
+docs / _build /
+
+# PyBuilder
+alvo /
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default /
+ipython_config.py
+
+# pyenv
+.python-version
+
+# arquivo de programação de batida de aipo
+celerybeat-cronograma
+
+# SageMath arquivos analisados
+* .sage.py
+
+# Ambientes
+.env
+.venv
+env /
+venv /
+ENV /
+env.bak /
+venv.bak /
+
+# Configurações do projeto Spyder
+.spyderproject
+.spyproject
+
+# Configurações do projeto de corda
+.ropeproject
+
+# documentação mkdocs
+/ site
+
+# mypy
+.mypy_cache /
+.dmypy.json
+dmypy.json
+
+# Verificador de tipo de pira
+.pyre /
